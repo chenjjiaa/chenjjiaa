@@ -11,7 +11,7 @@
 </a>
 <br><br>
 
-- 👋 <b>Hi, I’m chenjjiaa, a college graduate in 2024. I am also a prospective back-end engineer</b>
+- 👋 <b>Hi, I’m chenjjiaa, a college graduate in 2024. I am also a prospective back-end engineer</b> 
 - 👀 <b>I’m interested in coding and open source</b>
 - 🌱 <b>I’m currently learning about project techniques and algorithms</b>
 - 📫 <b>How to reach me?My WeChat is: China_JoJo_</b>
