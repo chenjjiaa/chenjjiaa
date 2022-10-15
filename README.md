@@ -17,8 +17,8 @@
 - 📫 <b>How to reach me?My WeChat is: China_JoJo_</b>
 - 💞️ <b>I hope to work for a large internet company in the future</b>
 
-<b>你好，我是阿嘉，在校，于2024年毕业</b><br>
-<b>同时也是一名准后端开发工程师</b><br>
+<b>你好，我是阿嘉</b><br>
+<b>目前在校，于2024年毕业，是一名准后端开发工程师</b><br>
 <b>热爱技术，喜欢钻研，同时也热爱并学习着做开源</b><br>
 <b>对技术有强烈好奇心</b><br>
 <b>实习经历：[亚信科技](https://www.asiainfo.com/zh_cn/index.html)</b><br>
