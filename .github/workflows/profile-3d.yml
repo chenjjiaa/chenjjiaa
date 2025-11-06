@@ -33,5 +33,5 @@ jobs:
           git config user.email 94773058+chenjjiaa@users.noreply.github.com
           git add -A .
           if git commit -m "generated"; then
-            git push
+            git push --force origin main
           fi

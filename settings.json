@@ -1,5 +1,7 @@
-{
-  "fileName": "profile-green-animate",
-  "theme": "green",
-  "excludeLanguages": ["Java", "JavaScript", "HTML", "Vue", "CSS"]
-}
+[
+  {
+    "fileName": "profile-green-animate",
+    "theme": "green",
+    "excludeLanguages": ["Java", "JavaScript", "HTML", "Vue", "CSS"]
+  }
+]
