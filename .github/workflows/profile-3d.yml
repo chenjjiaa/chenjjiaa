@@ -21,6 +21,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./settings.json
+          ACTIONS_STEP_DEBUG: true
+      - name: Debug language list
+        run: |
+          cat settings.json
+          ls -l profile-3d-contrib || true
       - name: Commit & Push
         run: |
           git config user.name github-actions
