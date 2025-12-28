@@ -26,7 +26,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name github-actions
-          git config user.email 94773058+chenjjiaa@users.noreply.github.com
+          git config user.email 94773058+itscheems@users.noreply.github.com
           git add -A .
           if git diff --staged --quiet; then
             echo "No changes to commit"
